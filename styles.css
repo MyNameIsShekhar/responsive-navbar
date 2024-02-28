@@ -182,7 +182,7 @@ img {
   font-size: 1.15rem;
   cursor: pointer;
   position: fixed;
-  align-items: right;
+  float: right;
 }
 
 /* Show menu */
