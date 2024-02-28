@@ -204,6 +204,7 @@ img {
 .header__toggle {
   font-size: 1.15rem;
   cursor: pointer;
+  position: fixed;
 }
 
 /* Show menu */
