@@ -182,11 +182,9 @@ img {
   font-size: 1.15rem;
   cursor: pointer;
   position: fixed;
+  Float: right;
 }
 
-#header-toggle {
-  float:right;
-}
 
 /* Show menu */
 .show-menu {
